@@ -1,7 +1,6 @@
-print "hi"
+#this file contains python commands
 
-B
-B
-A
-C
-#t#
+def fun():
+    print "I'm in fun"
+    return 1
+
